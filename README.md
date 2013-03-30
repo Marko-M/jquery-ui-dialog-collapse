@@ -4,7 +4,7 @@ jQuery UI Dialog Collapse
 Description
 -----------
 
-Extends JQuery UI Dialog to add collapse button feature. For usage example with available options and events please take a look at example.html.
+Extends JQuery UI Dialog to add collapse button feature. For usage example with available options and events please take a look at example.html. There's also [preview](http://jsbin.com/ezakes/) available at JS Bin. 
 
 Requirements
 ------------
